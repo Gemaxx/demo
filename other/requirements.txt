@@ -1,0 +1,17 @@
+Project
+Test Any Website with TestNG  
+Ex: amazon,gmail,facebook,……
+
+Requirements:
+1. Write a minimum 5 test cases for a chosen website.  
+2. Ensure  at least one test case extracts data from an Excel sheet.  
+3. Use TestNG for creating and running the test cases.  
+  
+Deliverables
+   Documentation
+      - Project name.  
+      - project members,section,id 
+      - Description of the project.  
+      - testcases table (before exceution)
+      - Code snippets.
+      - Screenshots of test case execution and generated reports.
